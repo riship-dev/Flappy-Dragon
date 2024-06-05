@@ -43,10 +43,4 @@ This game is inspired by Flappy Bird and The Elder Scrolls V: Skyrim. It was cre
 
 This project is licensed under the [MIT License](LICENSE). Feel free to modify and distribute the game according to the terms of the license.
 
-## Contact
-
-If you have any questions, suggestions, or issues with the game, please feel free to contact the developer:
-
-- Email: riship.office@gmail.com
-
 Enjoy playing Flappy Dragon!
